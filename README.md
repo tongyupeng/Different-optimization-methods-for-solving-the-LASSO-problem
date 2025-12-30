@@ -104,8 +104,6 @@ lasso-optimization/
 │   ├── 图片6：等维数据（500,500）稀疏性对比.png
 │   └── 图片7：低维多样本（1000,100）稀疏性对比.png
 ├── src/                       # 源代码
-│   ├── algorithms/           # 8种算法实现
-│   └── experiments.py       # 主实验脚本
 ├── docs/                   # 实验报告
 ├── requirements.txt        # Python依赖包
 ├── .gitignore             # Git忽略配置
